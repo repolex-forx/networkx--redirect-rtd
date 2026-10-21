@@ -1,0 +1,11 @@
+{
+  "org": "networkx",
+  "repo": "redirect-rtd",
+  "versions": [
+    {
+      "commit": "2c38b0a7c4aad1c3b86c96826da37ce7ada6f2ae",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:43:28.677604+00:00"
+    }
+  ]
+}
