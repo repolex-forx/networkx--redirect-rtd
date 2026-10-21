@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/networkx/redirect-rtd/commit/2c38b0a7c4aad1c3b86c96826da37ce7ada6f2ae",
       "git:hexsha": "2c38b0a7c4aad1c3b86c96826da37ce7ada6f2ae",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T19:43:28.636409+00:00"
     },
     {
       "@id": "https://repolex.ai/r/networkx/redirect-rtd/commit/802422f6a401fef11f1145f4cfffcdfe2d23598d",
